@@ -1,0 +1,29 @@
+.hom{
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.ques{
+    margin-bottom: 20px;
+}
+h5,h2,h4{
+    font-family: 'Lora', serif;
+}
+p{
+    font-family: 'Roboto Slab', serif;
+    margin-bottom: 0px;
+}
+
+.lin{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.ho:hover{
+    background-color:#F5F5F5;
+}

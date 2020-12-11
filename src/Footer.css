@@ -1,0 +1,18 @@
+.colu{
+    background-color:#F5F5F5;
+    color:black;
+    
+    bottom: 0px;
+
+}
+.center {
+    text-align: center;
+    
+  }
+a{
+    color: black;
+
+}
+a.colu:hover{
+    color: blue;
+}
